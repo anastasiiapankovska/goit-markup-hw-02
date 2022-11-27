@@ -1,0 +1,192 @@
+
+/*body*/
+body {
+    font-family:'Roboto', 'Helvetica Neue', 'Verdana', 'Tahoma', sans-serif;
+    color: #2E2F42;
+}
+
+.list{
+    list-style: none;
+    
+}
+
+.link{
+    text-decoration: none;
+}
+/*============================HEDER========================*/
+/*logo*/
+.blue {
+    color: #4D5AE5;
+}
+
+.black {
+    color: #2E2F42;
+}
+.logo{
+font-family: 'Raleway';
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.3;
+    background-color: #FFFFFF;
+
+}
+.logo:focus{
+    color: #4D5AE5;
+}
+
+/*menu*/
+.menu 
+{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #2E2F42;
+    background-color: #FFFFFF;
+}
+
+.menu:hover,
+.menu:focus{
+    color: #4D5AE5;
+}
+
+.email
+{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+        background-color: #FFFFFF;
+}
+.email:hover,
+.email:focus {
+    color: #4D5AE5;
+}
+
+.phone-namber{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+.phone-namber:hover,
+.email:focus{
+    color: #4D5AE5;
+}
+.phone-namber
+
+/*========================================Main==============*/
+.hero-title{
+        font-weight: 600;
+        font-size: 56px;
+        line-height: 1.0;
+        letter-spacing: 0.02em;
+        color: #FFFFFF;
+        background-color: #2E2F42;
+}
+
+.btn{
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 1.2;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.04em;
+        color: #FFFFFF;
+        background-color: #4D5AE5;
+        cursor: pointer;
+}
+
+.features{
+    font-weight: 600;
+        font-size: 20px;
+        line-height:1.2;
+        letter-spacing: 0.02em;
+}
+.info{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+/*===================About===========*/
+.caption{
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 1.1;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}
+/*=====================TEAM==========*/
+.caption-three{
+    font-weight: 600;
+        font-size: 36px;
+        line-height: 1.1;
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+}
+.name-team{
+    font-weight: 600;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+}
+
+.subtitle{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+/*========================FOOTER==============================*/
+.footer{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #E7E9FC;
+        background-color:#2E2F42 ;
+}
+/*==================================PAGE2=====================*/
+.butons{
+    font-weight: 600;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #4D5AE5;
+        background-color:#F4F4FD;
+        cursor: pointer;        
+}
+.butons:hover,
+.butons:focus {
+    color: #F4F4FD ;
+    background: #4D5AE5;
+}
+
+.meta{
+font-weight: 600;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.tooltip{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+.features__list{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
